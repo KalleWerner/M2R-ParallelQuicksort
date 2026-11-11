@@ -35,3 +35,10 @@ journal.tex
 *.x86_64
 *.hex
 src/parallelQuicksort
+
+# R
+.Rhistory
+
+# files in data/ (but keep the folder)
+data/
+!data/.gitkeep
